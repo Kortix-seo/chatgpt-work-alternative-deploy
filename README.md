@@ -1,8 +1,8 @@
 # Kortix deploy: an open-source ChatGPT Work alternative you can self-host
 
-Kortix is open source, and this repository is a working deployment template for it: a `kortix.yaml` manifest, a starter agent, a starter skill, and a cron trigger that run the open-source ChatGPT Work alternative on hardware a company owns. The product is Kortix, the open-source AI Operating System, and the template is a starting point you fork and adapt.
+Kortix is open source, and this repository is a working deployment template for it: a `kortix.yaml` manifest, a starter agent, a starter skill, and a cron trigger that run the open-source ChatGPT Work alternative on hardware a company owns. The product is Kortix, the open-source CompanyOS, and the template is a starting point you fork and adapt.
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. One isolated sandbox per session. Each session has its own isolated machine and branch. Session work reaches `main` through a change request. Merge is default-deny for agents. Any model provider with your own keys, or the ChatGPT plan you already pay for.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. One isolated sandbox per session. Each session has its own isolated machine and branch. Session work reaches `main` through a change request. Merge is default-deny for agents. Any model provider with your own keys, or the ChatGPT plan you already pay for.
 
 The guides in `docs/` cover setup, the comparison with ChatGPT Work, self-hosting, and the questions teams ask before they move.
 
