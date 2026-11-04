@@ -114,6 +114,6 @@ New pages cover the questions teams ask before they move: [ChatGPT Work for team
 
 Two of those comparisons answer the question a team asks when a rival product is already in the building. [ChatGPT Work vs Claude Cowork](https://chatgptworkalternative.com/chatgpt-work-vs-claude-cowork) compares the two products as they stand today, and [ChatGPT Work vs Gemini](https://chatgptworkalternative.com/chatgpt-work-vs-gemini) covers the Workspace-shaped alternative. When the question is what a reviewer can see after the fact, [the ChatGPT Work audit log](https://chatgptworkalternative.com/chatgpt-work-audit-log) walks through what the hosted product records and what a repo you own records instead, and the [FAQ](https://chatgptworkalternative.com/faq) collects the questions teams ask before they move.
 
-The Kortix source code is public. Read it, fork it, audit it at [Kortix on GitHub](https://github.com/kortix-ai/suna). Read the product documentation at [Read the docs](https://kortix.com/docs).
+The Kortix source code is public. Read it, fork it, audit it at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS). Read the product documentation at [Read the docs](https://kortix.com/docs).
 
 Kortix is free to self-host. [Try Kortix](https://kortix.com).
